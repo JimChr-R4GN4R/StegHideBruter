@@ -1,5 +1,5 @@
 # StegHideBruter
-This is a script that you can use to try many passwords with steghide and find the correct one to get the secret file from a stego image.
+This is a script based on Python3 that you can use to try many passwords with steghide and find the correct one to get the secret file from a stego image.
 
 ## Instructions
 ```
